@@ -1,0 +1,12 @@
+{
+  "name": "owsianka/task1",
+  "description": "Task 1 without Symfony",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}

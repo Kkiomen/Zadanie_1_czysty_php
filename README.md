@@ -1,0 +1,1 @@
+W pliku \config\config.php można ustawić dane do bazy danych
